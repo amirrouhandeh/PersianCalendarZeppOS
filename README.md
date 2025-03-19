@@ -27,8 +27,8 @@
 - نمایش تاریخ شمسی در بخش کارت‌های کوتاه
 - نمایش تاریخ شمسی در بخش ویجت‌ها
 
-## لینک حمایت:
-[با کلیک در اینجا میتوانید از این پروژه حمایت مالی کنید.](https://daramet.com/amirrouhandeh)
+## لینک حمایت از کودکان سرطانی از طریق محک:
+https://mahak-charity.org/online-payment/
 
 ## اسکرین شات ها:
 <img align="right" width="168" height="200" src="https://github.com/amirrouhandeh/ZeppOS/assets/3074871/0330cc94-7012-41e9-a6e3-49a9ba16237e">
